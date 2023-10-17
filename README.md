@@ -12,13 +12,6 @@ Here's an overview of the scores achieved on each assignment:
 - **Assignment 04**: 
 - **Assignment 05**: 
 
-## Online Tests 📝
-
-In addition to assignments, I also performed well in online tests related to web programming:
-
-- **Test 01**: 
-- **Test 02**: 
-- **Test 03**: 
 
 ## Disclaimer ⚠️
 
