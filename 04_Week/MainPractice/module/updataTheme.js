@@ -16,6 +16,7 @@ function updateThemes() {
     if (matchingOldData) {
       set.theme = matchingOldData.theme;
     }
+    console.log(setData);
   });
 
   // Save the updated data back to setData.json
